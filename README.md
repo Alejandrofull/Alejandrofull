@@ -1,8 +1,4 @@
 
-
-
-
-
 Hi there 👋 I´m Alejandro Lescano
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
@@ -10,9 +6,15 @@ Hi there 👋 I´m Alejandro Lescano
 
 <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br>
 
+
+<img alt="Hola" height="70px" width="70px" align="center" src="[https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif](https://github.com/halfrost/halfrost/blob/master/icons/header_.png
+)"></img><br>
+
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 <a target="_blank" align="center">
+
+
 
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauro_brant-1/)
