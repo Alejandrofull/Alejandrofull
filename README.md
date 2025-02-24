@@ -1,7 +1,15 @@
 
 <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 </a>
-(https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+## My tech stack
+
+<p align="left"> 
+
 Hi there 👋 I´m Alejandro Lescano
 
 
