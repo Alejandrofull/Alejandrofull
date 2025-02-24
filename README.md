@@ -7,9 +7,6 @@ Hi there 👋 I´m Alejandro Lescano
 <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br>
 
 
-<img alt="Hola" height="70px" width="70px" align="center" src="[https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif](https://github.com/halfrost/halfrost/blob/master/icons/header_.png
-)"></img><br>
-
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 <a target="_blank" align="center">
