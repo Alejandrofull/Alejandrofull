@@ -13,10 +13,10 @@
 </p>
 
 ### 👨‍💻 Sobre mí
-- [cite_start]🎓 **Estudiante de 9no ciclo de Ingeniería de Sistemas** en la Universidad Privada del Norte[cite: 48].
-- [cite_start]🚀 **Desarrollador Full Stack** con experiencia en arquitecturas limpias y soluciones escalables[cite: 10, 17].
-- [cite_start]🏛️ Ex-Voluntario Regional en la **Sub Gerencia de TI** del Gobierno Regional de La Libertad[cite: 41].
-- [cite_start]📡 Especialista en **Redes y Conectividad** con certificación oficial de **Cisco CCNA**[cite: 79, 95].
+- 🎓 **Estudiante de 9no ciclo de Ingeniería de Sistemas** en la Universidad Privada del Norte.
+- 🚀 **Desarrollador Full Stack** con experiencia en soluciones eficientes y **Clean Architecture**.
+- 🏛️ Ex-Voluntario Regional en la **Sub Gerencia de TI** del Gobierno Regional de La Libertad.
+- 📡 Especialista en **Redes y Conectividad** con certificación oficial **Cisco CCNA**.
 
 ---
 
@@ -44,16 +44,18 @@
 ---
 
 ### 📂 Proyectos Relevantes
-* [cite_start]**[EduAnalytics](https://github.com/Alejandrofull):** Predicción de deserción escolar con Machine Learning (Python, Pandas, Streamlit)[cite: 23].
-* [cite_start]**[Cataspace](https://cataspace.vercel.app/):** App web para gestión de catálogos y stock usando React y Supabase[cite: 34].
-* [cite_start]**Módulo de Tickets (GRLL):** Gestión de incidencias en tiempo real con C# y SignalR[cite: 25, 27].
-* [cite_start]**WhatsApp API Auth:** Integración de API de Meta mediante NestJS y Docker[cite: 32].
+* **EduAnalytics:** Sistema de predicción de deserción escolar utilizando Machine Learning con Python, Pandas y Streamlit.
+* **Cataspace:** Aplicación web para la gestión de catálogos y control de stock desarrollada con React y Supabase.
+* **Módulo de Tickets (GRLL):** Sistema de gestión de incidencias en tiempo real implementado con C# y SignalR.
+* **WhatsApp API Auth:** Integración de la API de Meta para automatización de mensajes usando NestJS y Docker.
 
 ---
 
-### 📊 Mis Estadísticas
+### 📊 Mis Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alejandrofull&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alejandrofull&show_icons=true&theme=tokyonight" alt="Estadísticas de Alejandro" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandrofull&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
 
 ---
@@ -62,8 +64,9 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/alejandro-leonidas-lescano-ticliahuanca-1a2775295/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:alejandrolescano442@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://stackoverflow.com/users/26610168/alejandro-lescano" target="blank"><img align="center" src="https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
 </p>
 
 <p align="right">
-  <i>Coded with ☕ and Bongo Cat</i>
+  <img src="https://komarev.com/ghpvc/?username=Alejandrofull&label=Perfil%20visto&color=0e75b6&style=flat" alt="Vistas" />
 </p>
